@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amose873/Bochakai/static/css/main.e7a810f8.css",
-    "main.js": "/amose873/Bochakai/static/js/main.1996a6f5.js",
-    "static/js/453.ce24bb35.chunk.js": "/amose873/Bochakai/static/js/453.ce24bb35.chunk.js",
-    "index.html": "/amose873/Bochakai/index.html",
-    "main.e7a810f8.css.map": "/amose873/Bochakai/static/css/main.e7a810f8.css.map",
-    "main.1996a6f5.js.map": "/amose873/Bochakai/static/js/main.1996a6f5.js.map",
-    "453.ce24bb35.chunk.js.map": "/amose873/Bochakai/static/js/453.ce24bb35.chunk.js.map"
+    "main.css": "/Bochakai/static/css/main.e7a810f8.css",
+    "main.js": "/Bochakai/static/js/main.f32c220e.js",
+    "static/js/453.ce24bb35.chunk.js": "/Bochakai/static/js/453.ce24bb35.chunk.js",
+    "index.html": "/Bochakai/index.html",
+    "main.e7a810f8.css.map": "/Bochakai/static/css/main.e7a810f8.css.map",
+    "main.f32c220e.js.map": "/Bochakai/static/js/main.f32c220e.js.map",
+    "453.ce24bb35.chunk.js.map": "/Bochakai/static/js/453.ce24bb35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7a810f8.css",
-    "static/js/main.1996a6f5.js"
+    "static/js/main.f32c220e.js"
   ]
 }
